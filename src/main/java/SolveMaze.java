@@ -23,7 +23,7 @@ public class SolveMaze {
         Maze maze = new Maze(10, 10);
 
         /*
-         * Pick (0, 0), the bottom left corner, as the starting point.
+         * Pick (0, 0), t he bottom left corner, as the starting point.
          * Put the end in the top right corner.
          */
         maze.startAtZero();
